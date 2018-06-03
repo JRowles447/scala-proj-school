@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- isWinner test[0m[0m
+[0m[[0minfo[0m] [0m[32m- isWinner test rows[0m[0m
+[0m[[0minfo[0m] [0m[32m- isWinner test columns[0m[0m
+[0m[[0minfo[0m] [0m[32m- isFinished test[0m[0m
+[0m[[0minfo[0m] [0m[32m- Other isFinished Tests on rows[0m[0m
+[0m[[0minfo[0m] [0m[32m- Columns is finished test[0m[0m
+[0m[[0minfo[0m] [0m[32m- getWinner Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- row0 getWinner Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- row 1 getWinner Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- row 2 getWinner Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- columns getWinner Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- nextBoards Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- miniMax Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- minimax Test 2[0m[0m

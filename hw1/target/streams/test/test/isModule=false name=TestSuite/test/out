@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- oddNumbers properly defined [0m[0m
+[0m[[0minfo[0m] [0m[32m- SumDouble working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- removeZeroes working[0m[0m
+[0m[[0minfo[0m] [0m[32m- countEvens working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- removeAlternating working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- isAscending working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- addSub working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- alternate working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- fromTo working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- insertOrdered working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- sort working correctly[0m[0m

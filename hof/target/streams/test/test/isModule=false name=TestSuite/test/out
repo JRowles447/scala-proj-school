@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- map2 with functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatten test[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatten3 test[0m[0m
+[0m[[0minfo[0m] [0m[32m- buildList test working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- mapList test[0m[0m
+[0m[[0minfo[0m] [0m[32m- append working correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 1 [0m[0m
+[0m[[0minfo[0m] [0m[32m- Merge working correctly [0m[0m
+[0m[[0minfo[0m] [0m[32m- sort working correctly[0m[0m
